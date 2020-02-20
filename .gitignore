@@ -1,0 +1,5 @@
+.idea/
+e2e.iml
+target/*
+!target/stubs/*
+!target/test-classes/kz/*
