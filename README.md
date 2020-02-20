@@ -15,3 +15,6 @@ The following guides illustrate how to use some features concretely:
 
 * [Spring Cloud Contract Verifier Setup](https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract.html#_spring_cloud_contract_verifier_setup)
 
+```
+mvn clean test
+```
