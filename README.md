@@ -7,10 +7,10 @@ Let's check what [http://www.mocky.io/v2/5e4e9eea2f000062cd16a98f](http://www.mo
 ## Getting Started
 
 ### Reference Documentation
-For further reference, please consider the following sections:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/)
+* [What Is a Contract?](https://cloud.spring.io/spring-cloud-contract/reference/html/getting-started.html#getting-started-what-is-a-contract)
+* [Contract DSL](https://cloud.spring.io/spring-cloud-contract/reference/html/project-features.html#contract-dsl)
+* [Spring Cloud Contract WireMock](https://cloud.spring.io/spring-cloud-contract/reference/html/project-features.html#features-wiremock)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
