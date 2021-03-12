@@ -11,7 +11,7 @@ class ContractVerifierBase {
 
 	@Before
 	fun setup() {
-		RestAssured.baseURI = "http://www.mocky.io/"
+		RestAssured.port = 80
 
 		// mock app context here if necessary
 	}
