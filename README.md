@@ -2,6 +2,8 @@
 
 Process end to end tests
 
+Let's check what [http://www.mocky.io/v2/5e4e9eea2f000062cd16a98f](http://www.mocky.io/v2/5e4e9eea2f000062cd16a98f), should return `OK` text
+
 ## Getting Started
 
 ### Reference Documentation
